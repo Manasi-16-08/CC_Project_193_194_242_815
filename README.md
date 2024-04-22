@@ -7,7 +7,9 @@ The objective of this project is to develop a task management application that u
 Raft consensus algorithm to ensure consistency and fault tolerance across multiple nodes. 
 MySQL will be employed as the backend database to store task data. The application will 
 enable users to create, update, delete, and manage tasks across the distributed system.
+
 Objectives:
+
 ● Implement a task management system with Raft consensus algorithm for distributed 
 coordination.
 ● Utilise MySQL as the backend database to store task data.
@@ -15,7 +17,9 @@ coordination.
 ● Enable users to perform CRUD operations on tasks via a user-friendly interface.
 ● Demonstrate distributed system principles and fault tolerance mechanisms through 
 the application.
+
 Pre-requisites:
+
 ● Raft Consensus Algorithm: Basic knowledge of Raft consensus algorithm and its 
 implementation.
 ● MySQL Database: Good understanding of relational databases and experience with 
