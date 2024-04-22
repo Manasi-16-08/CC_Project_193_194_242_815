@@ -1,8 +1,11 @@
 # CC_Project_193_194_242_815
+
 Problem Statement 2:
-Building a Task Management Application with Raft Consensus 
-Algorithm and MySQL
+
+Building a Task Management Application with Raft Consensus Algorithm and MySQL
+
 Overview:
+
 The objective of this project is to develop a task management application that utilises the 
 Raft consensus algorithm to ensure consistency and fault tolerance across multiple nodes. 
 MySQL will be employed as the backend database to store task data. The application will 
